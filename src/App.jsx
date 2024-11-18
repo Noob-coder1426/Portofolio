@@ -4,7 +4,7 @@ import About from "./section/About"
 import Clients from "./section/Clients"
 import Contact from "./section/Contact"
 import Footer from "./section/Footer"
-import Experience from "./section/experience"
+import Experience from "./section/Experience"
 
 
 function App() {
